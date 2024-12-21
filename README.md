@@ -11,7 +11,7 @@
 - 🌱 I’m learning **Java Full Stack Development**.  
 - 👯 I’m looking to collaborate on [HR Management System](https://github.com/Shubha81149/hrmanagement/tree/kuku).
    
-- 💬 Ask me about :-
+- <h4>💬 Ask me about :</h4>
 1. What core features are you planning to include in your HR Management System?
 -  Example: Employee records, payroll, leave management, etc.
 2. What technologies or frameworks are you using for the project?-
@@ -40,14 +40,14 @@ Here are some of my favorite projects:
 ### HR Management System  
 <img src="https://i0.wp.com/www.sutisoft.com/blog/wp-content/uploads/2015/04/HR-Management-Systems-scaled.jpeg?fit=2560%2C1440&ssl=1" alt="HR Management System" width="150"/>
 <a href="https://github.com/Shubha81149/hrmanagement/tree/kuku"></a> 
-Click this image to view my project code.
+<h5>Click this image to view my project code.</h5>
 
 An application to manage employee records, recruite, payroll, and more. 
 
 ### Employee Management System  
 <img src="https://www.slideteam.net/media/catalog/product/cache/1280x720/e/m/employee_management_system_powerpoint_ppt_template_bundles_slide01.jpg" alt="Employee Management System" width="150"/>  
 <a href="https://github.com/Shubha81149/hrmanagement/tree/kuku"></a>
-Click this image to view my project code.
+<h5>Click this image to view my project code.</h5>
 
 A system to handle employee data efficiently. 
 
