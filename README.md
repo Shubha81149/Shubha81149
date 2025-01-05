@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 About Me  
-- 🔭 I’m currently working on [Employee Management System](https://github.com/Shubha81149/hrmanagement/tree/kuku).  
+- 🔭 I’m currently working on [Employee Management System](https://github.com/Shubha81149/EmployeeManagement-System-in-j2ee).  
 - 🌱 I’m learning **Java Full Stack Development**.  
 - 👯 I’m looking to collaborate on [HR Management System](https://github.com/Shubha81149/hrmanagement/tree/kuku).
    
