@@ -46,7 +46,7 @@ An application to manage employee records, recruite, payroll, and more.
 
 ### Employee Management System  
 <img src="https://www.slideteam.net/media/catalog/product/cache/1280x720/e/m/employee_management_system_powerpoint_ppt_template_bundles_slide01.jpg" alt="Employee Management System" width="150"/>  
-<a href="https://github.com/Shubha81149/hrmanagement/tree/kuku"></a>
+<a href="https://github.com/Shubha81149/EmployeeManagement-System-in-j2ee"></a>
 <h5>Click this image to view my project code.</h5>
 
 A system to handle employee data efficiently. 
